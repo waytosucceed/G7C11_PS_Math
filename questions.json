@@ -1,0 +1,230 @@
+{
+  "heading": "Division of fractions and practice reducing fractions to the lowest terms.",
+  "topics": [
+    {
+      "heading": "Division of fractions and practice reducing fractions to the lowest terms.",
+      "questions": [{
+        "questionNo": 1,
+        "question": "Mia wants to divide 11/4 of a basket of tomatoes into 3/7 basket portions. How many portions will she get?",
+        "options": [
+            "76/12",
+            "77/13",
+            "77/12",
+            "76/13"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 2,
+        "question": "If Mia has 13/4 of a cucumber and she packs it into containers holding 1/17 of a cucumber each, how many containers does she use?",
+        "options": [
+            "221/4",
+            "221/5",
+            "222/4",
+            "222/5"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 3,
+        "question": "Mia has 3/2 of a field planted with carrots. How many sections will she have if she divides this equally among 7/6-acre sections?",
+        "options": [
+            "8/7",
+            "9/7",
+            "6/7",
+            "5/7"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 4,
+        "question": "Mia packs 14/5 of a carrot into bags of 17/2 of a carrot each. How many bags does she have?",
+        "options": [
+            "28/85",
+            "26/84",
+            "29/86",
+            "27/87"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 5,
+        "question": "Mia has 80/20 of a cucumber and wants to divide it into sections of 9/7 of a cucumber each. How many sections will she get?",
+        "options": [
+            "28/8",
+            "28/9",
+            "27/9",
+            "27/8"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 6,
+        "question": "Mia wants to pack 21/6 of a tomato into containers holding 30/5 of a tomato each. How many containers can she fill?",
+        "options": [
+            "6/12",
+            "6/13",
+            "7/12",
+            "7/13"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 7,
+        "question": "Mia packs 15153 carrots into packages of 9125 a carrot each. How many packages does she make?",
+        "options": [
+            "300/170",
+            "300/171",
+            "301/171",
+            "301/170"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 8,
+        "question": "Mia has 428 cucumbers. If she packs them into bundles holding 345 cucumber each, how many bundles does she get?",
+        "options": [
+            "76/85",
+            "85/76",
+            "85/75",
+            "75/85"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 9,
+        "question": "Mia has 72/20 of a field planted with carrots. She divides this equally into 4/3-acre plots. How many plots does she have?",
+        "options": [
+            "26/10",
+            "25/20",
+            "28/10",
+            "27/20"
+        ],
+        "answer": 3
+    },
+    {
+        "questionNo": 10,
+        "question": "If Mia has 12/13 of a basket of tomatoes and divides it into portions of 8/1 of a basket each, how many portions does she get?",
+        "options": [
+            "4/351",
+            "3/350",
+            "5/351",
+            "4/350"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 11,
+        "question": "Mia has 1232 tomatoes and wants to pack them into containers holding 2/1 of a tomato each. How many containers will she make?",
+        "options": [
+            "7/14",
+            "10/14",
+            "9/14",
+            "8/14"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 12,
+        "question": "Mia has 15120 cucumbers and wants to pack them into portions of 12120 cucumber each. How many portions will she fill?",
+        "options": [
+            "301/241",
+            "300/241",
+            "302/241",
+            "303/241"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 13,
+        "question": "Mia wants to distribute 9/7 of a cucumber into bags weighing 26/6 of a cucumber each. How many bags can she fill?",
+        "options": [
+            "4/7",
+            "3/7",
+            "1/7",
+            "2/7"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 14,
+        "question": "Mia needs to pack 312 carrots into bags weighing 9/8 of a carrot each. How many bags will she fill?",
+        "options": [
+            "1/27",
+            "2/28",
+            "2/27",
+            "1/28"
+        ],
+        "answer": 3
+    },
+    {
+        "questionNo": 15,
+        "question": "Mia is dividing 2130 carrots into portions of 4150 a carrot each. How many portions does she make?",
+        "options": [
+            "307/603",
+            "306/603",
+            "305/603",
+            "304/603"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 16,
+        "question": "Mia has 4112 of a tomato and packs them into containers of 9/0 of a tomato each. How many containers does she have?",
+        "options": [
+            "83/181",
+            "83/180",
+            "82/181",
+            "82/180"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 17,
+        "question": "Mia has 1115 carrot and packs it into containers holding 6 carrots each. How many containers will she have?",
+        "options": [
+            "7/15",
+            "6/15",
+            "9/15",
+            "8/15"
+        ],
+        "answer": 3
+    },
+    {
+        "questionNo": 18,
+        "question": "Mia has 10017 tomatoes and packs them into containers holding 14022 tomato each. How many containers does she get?",
+        "options": [
+            "702/987",
+            "701/988",
+            "701/987",
+            "702/988"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 19,
+        "question": "Mia has 9423 tomatoes and she divides them into servings of 9145 tomato each. How many servings will she get?",
+        "options": [
+            "1420/1377",
+            "1421/1377",
+            "1420/1376",
+            "1421/1376"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 20,
+        "question": "Mia has 12510 cucumbers and she packs them into units of 20 of a cucumber each. How many units does she get?",
+        "options": [
+            "5/8",
+            "6/8",
+            "5/9",
+            "6/9"
+        ],
+        "answer": 0
+    }
+    ]
+    
+    }
+  ]
+}
